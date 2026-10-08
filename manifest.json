@@ -1,0 +1,165 @@
+{
+  "schemaVersion": 1,
+  "models": [
+    {
+      "id": "clip-datacomp",
+      "files": [
+        {
+          "path": "Notices/Apple-coreai-models-BSD-3-Clause.txt",
+          "url": "https://github.com/rsyncOSX/AI-models/releases/download/models-v2-2026-10-08/clip-datacomp-0000.bin",
+          "byteCount": 1492,
+          "sha256": "6762cc4b6772662c50c4c666dafbb2d0c97c80d6d54c9d628480ab59d655cf6e"
+        },
+        {
+          "path": "Notices/NOTICE.md",
+          "url": "https://github.com/rsyncOSX/AI-models/releases/download/models-v2-2026-10-08/clip-datacomp-0001.bin",
+          "byteCount": 1239,
+          "sha256": "335a614ae7b7ee8a338c939a85f62e68089c662f75367e66c235ba666d44e3ea"
+        },
+        {
+          "path": "Notices/OpenAI-CLIP-Tokenizer-MIT.txt",
+          "url": "https://github.com/rsyncOSX/AI-models/releases/download/models-v2-2026-10-08/clip-datacomp-0002.bin",
+          "byteCount": 1063,
+          "sha256": "893951b3bf94db8df1b13e05da5cdeb499400960e4d44a3962a8b33ed0b4f28e"
+        },
+        {
+          "path": "Notices/OpenCLIP-DataComp-MIT.txt",
+          "url": "https://github.com/rsyncOSX/AI-models/releases/download/models-v2-2026-10-08/clip-datacomp-0003.bin",
+          "byteCount": 1239,
+          "sha256": "6e355cc8399a572ed3db329d178a1188400fbbaed4397c28bd5b5fbac2696986"
+        },
+        {
+          "path": "Notices/PROVENANCE.json",
+          "url": "https://github.com/rsyncOSX/AI-models/releases/download/models-v2-2026-10-08/clip-datacomp-0004.bin",
+          "byteCount": 2626,
+          "sha256": "0d9a2a160e24e1272a1a51a4a6b2193ba209d1f13bf40c8dc5abf29cd09329ce"
+        },
+        {
+          "path": "ViT-B-32-256-datacomp_s34b_b86k_float16_static.aimodel/main.hash",
+          "url": "https://github.com/rsyncOSX/AI-models/releases/download/models-v2-2026-10-08/clip-datacomp-0005.bin",
+          "byteCount": 32,
+          "sha256": "aa777fc5e603c234363089a29d74efc7753880a5280a268ecdb6aec20b7162b3"
+        },
+        {
+          "path": "ViT-B-32-256-datacomp_s34b_b86k_float16_static.aimodel/main.mlirb",
+          "url": "https://github.com/rsyncOSX/AI-models/releases/download/models-v2-2026-10-08/clip-datacomp-0006.bin",
+          "byteCount": 302761724,
+          "sha256": "4e1e76afec0fc8dc334b2c3995feb471fa3ff9b75d421d74bf90401ebe90ee89"
+        },
+        {
+          "path": "ViT-B-32-256-datacomp_s34b_b86k_float16_static.aimodel/metadata.json",
+          "url": "https://github.com/rsyncOSX/AI-models/releases/download/models-v2-2026-10-08/clip-datacomp-0007.bin",
+          "byteCount": 323,
+          "sha256": "6ddb674b63aa51e082bfab4ad3e63054be4b96b44d0dcc0fc7b75ae4ce504f00"
+        },
+        {
+          "path": "metadata.json",
+          "url": "https://github.com/rsyncOSX/AI-models/releases/download/models-v2-2026-10-08/clip-datacomp-0008.bin",
+          "byteCount": 1661,
+          "sha256": "e039509de605b877163afd935367a2a93850a0f6846554edbe2e800bfad8ad1a"
+        },
+        {
+          "path": "tokenizer/merges.txt",
+          "url": "https://github.com/rsyncOSX/AI-models/releases/download/models-v2-2026-10-08/clip-datacomp-0009.bin",
+          "byteCount": 524619,
+          "sha256": "9fd691f7c8039210e0fced15865466c65820d09b63988b0174bfe25de299051a"
+        },
+        {
+          "path": "tokenizer/special_tokens_map.json",
+          "url": "https://github.com/rsyncOSX/AI-models/releases/download/models-v2-2026-10-08/clip-datacomp-0010.bin",
+          "byteCount": 588,
+          "sha256": "2cdb3b8331a60c92fc1e55a13e9fd61fd2293c5a51275fdcccd62b780052530e"
+        },
+        {
+          "path": "tokenizer/tokenizer.json",
+          "url": "https://github.com/rsyncOSX/AI-models/releases/download/models-v2-2026-10-08/clip-datacomp-0011.bin",
+          "byteCount": 3642073,
+          "sha256": "6d9109cc838977f3ca94a379eec36aecc7c807e1785cd729660ca2fc0171fb35"
+        },
+        {
+          "path": "tokenizer/tokenizer_config.json",
+          "url": "https://github.com/rsyncOSX/AI-models/releases/download/models-v2-2026-10-08/clip-datacomp-0012.bin",
+          "byteCount": 736,
+          "sha256": "39bae5313c2da6467866dee758e754d69f0e302a875027b142531cb9c51c7c28"
+        },
+        {
+          "path": "tokenizer/vocab.json",
+          "url": "https://github.com/rsyncOSX/AI-models/releases/download/models-v2-2026-10-08/clip-datacomp-0013.bin",
+          "byteCount": 862328,
+          "sha256": "5047b556ce86ccaf6aa22b3ffccfc52d391ea4accdab9c2f2407da5b742d4363"
+        }
+      ]
+    },
+    {
+      "id": "sam3",
+      "files": [
+        {
+          "path": "Notices/Apple-coreai-models-BSD-3-Clause.txt",
+          "url": "https://github.com/rsyncOSX/AI-models/releases/download/models-v2-2026-10-08/sam3-0000.bin",
+          "byteCount": 1492,
+          "sha256": "6762cc4b6772662c50c4c666dafbb2d0c97c80d6d54c9d628480ab59d655cf6e"
+        },
+        {
+          "path": "Notices/NOTICE.md",
+          "url": "https://github.com/rsyncOSX/AI-models/releases/download/models-v2-2026-10-08/sam3-0001.bin",
+          "byteCount": 1751,
+          "sha256": "dbd768f1176fe8c1f69f81d0fd4b5d658215a6352ae240532730152015f91ad8"
+        },
+        {
+          "path": "Notices/OpenAI-CLIP-Tokenizer-MIT.txt",
+          "url": "https://github.com/rsyncOSX/AI-models/releases/download/models-v2-2026-10-08/sam3-0002.bin",
+          "byteCount": 1063,
+          "sha256": "893951b3bf94db8df1b13e05da5cdeb499400960e4d44a3962a8b33ed0b4f28e"
+        },
+        {
+          "path": "Notices/PROVENANCE.json",
+          "url": "https://github.com/rsyncOSX/AI-models/releases/download/models-v2-2026-10-08/sam3-0003.bin",
+          "byteCount": 3038,
+          "sha256": "acd76f482dbdec218a4b2eb6afb09f9c45dde71d876e417ff03b8cff264bde80"
+        },
+        {
+          "path": "Notices/SAM3-SAM-License-2025-11-19.txt",
+          "url": "https://github.com/rsyncOSX/AI-models/releases/download/models-v2-2026-10-08/sam3-0004.bin",
+          "byteCount": 7345,
+          "sha256": "b08db9d32c687054e99cbd41eb1dad19c76936dfb9e2b58e186a01204d8be9ab"
+        },
+        {
+          "path": "metadata.json",
+          "url": "https://github.com/rsyncOSX/AI-models/releases/download/models-v2-2026-10-08/sam3-0005.bin",
+          "byteCount": 472,
+          "sha256": "ad169962fcc3aa5e4fc69643c76e9da0d5631908565e2081c19acf0554132c94"
+        },
+        {
+          "path": "sam3_float16.aimodel/main.hash",
+          "url": "https://github.com/rsyncOSX/AI-models/releases/download/models-v2-2026-10-08/sam3-0006.bin",
+          "byteCount": 32,
+          "sha256": "f2615b5f4bc8d790ae4edafe8178952e95ba7ed19eae4a93f85f9d80b72842ad"
+        },
+        {
+          "path": "sam3_float16.aimodel/main.mlirb",
+          "url": "https://github.com/rsyncOSX/AI-models/releases/download/models-v2-2026-10-08/sam3-0007.bin",
+          "byteCount": 1663921129,
+          "sha256": "46a1aa47b6d42cc6284ff7b48fe773b6a101ac2c61e51b934e4d2f913aa7fee1"
+        },
+        {
+          "path": "sam3_float16.aimodel/metadata.json",
+          "url": "https://github.com/rsyncOSX/AI-models/releases/download/models-v2-2026-10-08/sam3-0008.bin",
+          "byteCount": 367,
+          "sha256": "0cb37cdefb4d049dc7890ba25361fcb1f9ef8fdddba63e994b2e2fb796a007ed"
+        },
+        {
+          "path": "tokenizer/tokenizer.json",
+          "url": "https://github.com/rsyncOSX/AI-models/releases/download/models-v2-2026-10-08/sam3-0009.bin",
+          "byteCount": 3642073,
+          "sha256": "6d9109cc838977f3ca94a379eec36aecc7c807e1785cd729660ca2fc0171fb35"
+        },
+        {
+          "path": "tokenizer/tokenizer_config.json",
+          "url": "https://github.com/rsyncOSX/AI-models/releases/download/models-v2-2026-10-08/sam3-0010.bin",
+          "byteCount": 454,
+          "sha256": "4ce6af65eaed63365073ba736f2893275ab9cba93cb8813b566bc6e393cdf529"
+        }
+      ]
+    }
+  ]
+}
